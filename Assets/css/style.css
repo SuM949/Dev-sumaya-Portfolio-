@@ -150,18 +150,8 @@ a {
     margin-top: 1rem;
 }
 
-/* skills */
-section .title{
-    position: relative;
-    text-align: center;
-    font-weight: 500;
-    margin-bottom: 60px;
-    padding-bottom: 20px;
-    font-family: sans-serif;
-}
-
-/* portfolio section */
-#portfolio {
+/* projects section */
+#projects {
     display: flex;
     flex-direction: column;
     background-color: rgb(7, 7, 7);
